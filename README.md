@@ -1,1 +1,8 @@
 # Cab-Cancelation
+algo : 
+# RANDOM FOREST 
+# LOGISTIC REGRESSION
+# DECISION TREE
+# KNN
+# NAIVE BAYES
+
